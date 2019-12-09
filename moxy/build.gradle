@@ -5,7 +5,7 @@ apply plugin: 'maven'
 ext {
     publishDir = 'artifacts'
     publishMavenDir = 'artifacts-maven'
-    targetGroupId = 'com.arello-mobile'
+    targetGroupId = 'com.github.eugene1616.Moxy'
     targetArtefactId = 'moxy'
     targetArtefactIdDev = 'moxy-dev'
     versionFile = 'VERSION'
